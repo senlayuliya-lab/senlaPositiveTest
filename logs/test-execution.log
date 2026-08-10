@@ -1,0 +1,363 @@
+2026-08-07 16:38:49.174 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 16:38:49.174 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 16:38:49.174 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 16:38:49.234 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 16:38:53.423 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 16:38:53.477 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-07 16:38:53.918 [INFO ] tests.RegOfficeTest - Тест adminFlow успешно завершён
+2026-08-07 16:38:53.924 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 16:38:54.012 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 16:38:58.756 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 16:38:58.767 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-07 16:39:00.366 [INFO ] tests.RegOfficeTest - Тест birthFlow успешно завершён
+2026-08-07 16:39:00.368 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 16:39:00.456 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 16:39:02.680 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 16:39:02.685 [INFO ] tests.RegOfficeTest - Запуск теста: deathFlow
+2026-08-07 16:39:03.523 [INFO ] tests.RegOfficeTest - Тест deathFlow успешно завершён
+2026-08-07 16:39:03.524 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 16:39:03.611 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 16:39:06.921 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 16:39:06.929 [INFO ] tests.RegOfficeTest - Запуск теста: marriageFlow
+2026-08-07 16:39:07.937 [INFO ] tests.RegOfficeTest - Тест marriageFlow успешно завершён
+2026-08-07 16:39:07.938 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 16:49:24.735 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  /Users/yuliyaharun/Library/Caches/JetBrains/IntelliJIdea2026.1/temp-testng-customsuite.xml
+
+2026-08-07 16:49:24.758 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 16:49:50.444 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 16:49:50.445 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 16:49:50.445 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 16:49:50.504 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 16:50:05.245 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 16:50:05.300 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-07 16:50:05.720 [INFO ] tests.RegOfficeTest - Тест adminFlow успешно завершён
+2026-08-07 16:50:05.726 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 16:50:05.815 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 16:50:12.470 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 16:50:12.478 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-07 16:50:13.964 [INFO ] tests.RegOfficeTest - Тест birthFlow успешно завершён
+2026-08-07 16:50:13.965 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 16:50:14.052 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 16:50:16.618 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 16:50:16.625 [INFO ] tests.RegOfficeTest - Запуск теста: deathFlow
+2026-08-07 16:50:18.013 [INFO ] tests.RegOfficeTest - Тест deathFlow успешно завершён
+2026-08-07 16:50:18.014 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 16:50:18.103 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 16:50:22.502 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 16:50:22.511 [INFO ] tests.RegOfficeTest - Запуск теста: marriageFlow
+2026-08-07 16:50:24.069 [INFO ] tests.RegOfficeTest - Тест marriageFlow успешно завершён
+2026-08-07 16:50:24.070 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 16:50:40.505 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 16:50:40.506 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 16:50:40.506 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 16:50:40.564 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 16:50:42.956 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 16:50:43.008 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-07 16:50:43.435 [INFO ] tests.RegOfficeTest - Тест adminFlow успешно завершён
+2026-08-07 16:50:43.441 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 16:50:43.531 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 16:50:48.168 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 16:50:48.180 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-07 16:50:49.676 [INFO ] tests.RegOfficeTest - Тест birthFlow успешно завершён
+2026-08-07 16:50:49.677 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 16:50:49.767 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 16:50:53.276 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 16:50:53.285 [INFO ] tests.RegOfficeTest - Запуск теста: deathFlow
+2026-08-07 16:50:54.135 [INFO ] tests.RegOfficeTest - Тест deathFlow успешно завершён
+2026-08-07 16:50:54.136 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 16:50:54.223 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 16:50:57.735 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 16:50:57.743 [INFO ] tests.RegOfficeTest - Запуск теста: marriageFlow
+2026-08-07 16:50:59.309 [INFO ] tests.RegOfficeTest - Тест marriageFlow успешно завершён
+2026-08-07 16:50:59.311 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:29:06.783 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:29:06.784 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:29:06.784 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:29:06.845 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:29:11.059 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:29:11.105 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-07 17:29:11.548 [INFO ] tests.RegOfficeTest - Тест adminFlow успешно завершён
+2026-08-07 17:29:11.553 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:29:11.641 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:29:17.315 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:29:17.320 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-07 17:29:18.286 [INFO ] tests.RegOfficeTest - Тест birthFlow успешно завершён
+2026-08-07 17:29:18.287 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:29:18.376 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:29:21.521 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:29:21.528 [INFO ] tests.RegOfficeTest - Запуск теста: deathFlow
+2026-08-07 17:29:22.362 [INFO ] tests.RegOfficeTest - Тест deathFlow успешно завершён
+2026-08-07 17:29:22.363 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:29:22.451 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:29:23.732 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:29:23.737 [INFO ] tests.RegOfficeTest - Запуск теста: marriageFlow
+2026-08-07 17:29:26.601 [INFO ] tests.RegOfficeTest - Тест marriageFlow успешно завершён
+2026-08-07 17:29:26.602 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:33:03.751 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:33:03.752 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:33:03.752 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:33:03.811 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:33:08.217 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:33:08.263 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-07 17:33:09.225 [INFO ] tests.RegOfficeTest - Тест adminFlow успешно завершён
+2026-08-07 17:33:09.231 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:33:09.321 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:33:13.839 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:33:13.852 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-07 17:33:14.867 [INFO ] tests.RegOfficeTest - Тест birthFlow успешно завершён
+2026-08-07 17:33:14.869 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:33:14.962 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:33:18.188 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:33:18.195 [INFO ] tests.RegOfficeTest - Запуск теста: deathFlow
+2026-08-07 17:33:19.666 [INFO ] tests.RegOfficeTest - Тест deathFlow успешно завершён
+2026-08-07 17:33:19.668 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:33:19.753 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:33:22.207 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:33:22.215 [INFO ] tests.RegOfficeTest - Запуск теста: marriageFlow
+2026-08-07 17:33:23.790 [INFO ] tests.RegOfficeTest - Тест marriageFlow успешно завершён
+2026-08-07 17:33:23.791 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:36:14.236 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:36:14.236 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:36:14.237 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:36:14.296 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:36:17.310 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:36:17.361 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-07 17:36:17.800 [INFO ] tests.RegOfficeTest - Тест adminFlow успешно завершён
+2026-08-07 17:36:17.806 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:36:17.894 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:36:20.318 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:36:20.326 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-07 17:36:21.805 [INFO ] tests.RegOfficeTest - Тест birthFlow успешно завершён
+2026-08-07 17:36:21.806 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:36:21.891 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:36:24.497 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:36:24.503 [INFO ] tests.RegOfficeTest - Запуск теста: deathFlow
+2026-08-07 17:36:25.895 [INFO ] tests.RegOfficeTest - Тест deathFlow успешно завершён
+2026-08-07 17:36:25.896 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:36:25.981 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:36:28.913 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:36:28.920 [INFO ] tests.RegOfficeTest - Запуск теста: marriageFlow
+2026-08-07 17:36:30.479 [INFO ] tests.RegOfficeTest - Тест marriageFlow успешно завершён
+2026-08-07 17:36:30.480 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:42:45.762 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:42:45.763 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:42:45.763 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:42:45.822 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:42:52.166 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:42:52.220 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-07 17:42:52.616 [INFO ] tests.RegOfficeTest - Тест adminFlow успешно завершён
+2026-08-07 17:42:52.622 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:42:52.711 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:42:55.809 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:42:55.816 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-07 17:42:56.787 [INFO ] tests.RegOfficeTest - Тест birthFlow успешно завершён
+2026-08-07 17:42:56.788 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:42:56.872 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:43:01.093 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:43:01.102 [INFO ] tests.RegOfficeTest - Запуск теста: deathFlow
+2026-08-07 17:43:02.066 [INFO ] tests.RegOfficeTest - Тест deathFlow успешно завершён
+2026-08-07 17:43:02.067 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:43:02.153 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:43:04.157 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:43:04.167 [INFO ] tests.RegOfficeTest - Запуск теста: marriageFlow
+2026-08-07 17:43:05.726 [INFO ] tests.RegOfficeTest - Тест marriageFlow успешно завершён
+2026-08-07 17:43:05.728 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:44:19.786 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:44:19.787 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:44:19.787 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:44:19.845 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:44:22.467 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:44:22.518 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-07 17:44:22.941 [INFO ] tests.RegOfficeTest - Тест adminFlow успешно завершён
+2026-08-07 17:44:22.948 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:44:23.040 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:44:25.442 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:44:25.451 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-07 17:44:26.421 [INFO ] tests.RegOfficeTest - Тест birthFlow успешно завершён
+2026-08-07 17:44:26.423 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:44:26.513 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:44:30.192 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:44:30.197 [INFO ] tests.RegOfficeTest - Запуск теста: deathFlow
+2026-08-07 17:44:31.043 [INFO ] tests.RegOfficeTest - Тест deathFlow успешно завершён
+2026-08-07 17:44:31.044 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:44:31.132 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:44:36.299 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:44:36.306 [INFO ] tests.RegOfficeTest - Запуск теста: marriageFlow
+2026-08-07 17:44:37.828 [INFO ] tests.RegOfficeTest - Тест marriageFlow успешно завершён
+2026-08-07 17:44:37.829 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:44:54.609 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:44:54.610 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:44:54.610 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-07 17:44:54.669 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:44:57.026 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:44:57.077 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-07 17:44:58.024 [INFO ] tests.RegOfficeTest - Тест adminFlow успешно завершён
+2026-08-07 17:44:58.030 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:44:58.120 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:45:00.231 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:45:00.240 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-07 17:45:01.740 [INFO ] tests.RegOfficeTest - Тест birthFlow успешно завершён
+2026-08-07 17:45:01.742 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:45:01.827 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:45:04.878 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:45:04.890 [INFO ] tests.RegOfficeTest - Запуск теста: deathFlow
+2026-08-07 17:45:06.267 [INFO ] tests.RegOfficeTest - Тест deathFlow успешно завершён
+2026-08-07 17:45:06.268 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-07 17:45:06.358 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-07 17:45:09.626 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-07 17:45:09.636 [INFO ] tests.RegOfficeTest - Запуск теста: marriageFlow
+2026-08-07 17:45:10.649 [INFO ] tests.RegOfficeTest - Тест marriageFlow успешно завершён
+2026-08-07 17:45:10.650 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 10:30:47.673 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-10 10:30:47.674 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-10 10:30:47.674 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-10 10:30:47.738 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 10:30:52.745 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 10:30:52.797 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-10 10:30:53.239 [INFO ] tests.RegOfficeTest - Тест adminFlow успешно завершён
+2026-08-10 10:30:53.245 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 10:30:53.334 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 10:30:54.641 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 10:30:54.646 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-10 10:30:56.885 [INFO ] tests.RegOfficeTest - Тест birthFlow успешно завершён
+2026-08-10 10:30:56.886 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 10:30:56.974 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 10:30:59.931 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 10:30:59.942 [INFO ] tests.RegOfficeTest - Запуск теста: deathFlow
+2026-08-10 10:31:01.337 [INFO ] tests.RegOfficeTest - Тест deathFlow успешно завершён
+2026-08-10 10:31:01.338 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 10:31:01.425 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 10:31:04.546 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 10:31:04.554 [INFO ] tests.RegOfficeTest - Запуск теста: marriageFlow
+2026-08-10 10:31:06.124 [INFO ] tests.RegOfficeTest - Тест marriageFlow успешно завершён
+2026-08-10 10:31:06.125 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 10:56:35.545 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-10 10:56:35.546 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-10 10:56:35.546 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-10 10:56:35.606 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 10:56:38.842 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 10:56:38.888 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-10 10:56:39.333 [INFO ] tests.RegOfficeTest - Тест adminFlow успешно завершён
+2026-08-10 10:56:39.338 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 10:56:39.424 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 10:56:41.965 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 10:56:41.975 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-10 10:56:42.942 [INFO ] tests.RegOfficeTest - Тест birthFlow успешно завершён
+2026-08-10 10:56:42.944 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 10:56:43.031 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 10:56:45.869 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 10:56:45.876 [INFO ] tests.RegOfficeTest - Запуск теста: deathFlow
+2026-08-10 10:56:47.275 [INFO ] tests.RegOfficeTest - Тест deathFlow успешно завершён
+2026-08-10 10:56:47.276 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 10:56:47.363 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 10:56:49.423 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 10:56:49.431 [INFO ] tests.RegOfficeTest - Запуск теста: marriageFlow
+2026-08-10 10:56:50.993 [INFO ] tests.RegOfficeTest - Тест marriageFlow успешно завершён
+2026-08-10 10:56:50.995 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 12:21:25.693 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  /Users/yuliyaharun/Library/Caches/JetBrains/IntelliJIdea2026.1/temp-testng-customsuite.xml
+
+2026-08-10 12:21:25.715 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 12:21:29.987 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 12:21:30.024 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-10 12:21:40.204 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 12:21:40.298 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 12:21:41.416 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 12:21:41.422 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-10 12:21:51.542 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 12:21:51.623 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 12:21:52.696 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 12:21:52.703 [INFO ] tests.RegOfficeTest - Запуск теста: deathFlow
+2026-08-10 12:22:02.871 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 12:22:02.961 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 12:22:04.146 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 12:22:04.155 [INFO ] tests.RegOfficeTest - Запуск теста: marriageFlow
+2026-08-10 12:22:14.435 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 12:26:05.346 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  /Users/yuliyaharun/Library/Caches/JetBrains/IntelliJIdea2026.1/temp-testng-customsuite.xml
+
+2026-08-10 12:26:05.368 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 12:26:07.243 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 12:26:07.282 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-10 12:26:17.475 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 12:26:17.566 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 12:26:18.712 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 12:26:18.718 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-10 12:26:28.885 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 12:26:28.970 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 12:26:30.029 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 12:26:30.034 [INFO ] tests.RegOfficeTest - Запуск теста: deathFlow
+2026-08-10 12:26:40.201 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 12:26:40.286 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 12:26:41.379 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 12:26:41.384 [INFO ] tests.RegOfficeTest - Запуск теста: marriageFlow
+2026-08-10 12:26:51.686 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 12:30:29.643 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-10 12:30:29.644 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-10 12:30:29.644 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-10 12:30:29.708 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 12:30:31.498 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 12:30:31.533 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-10 12:31:14.171 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-10 12:31:14.172 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-10 12:31:14.172 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-10 12:31:14.235 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 12:31:15.586 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 12:31:15.623 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-10 12:31:25.984 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 12:31:26.080 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 12:31:27.192 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 12:31:27.200 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-10 12:31:37.620 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 12:31:37.720 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 12:31:38.928 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 12:31:38.934 [INFO ] tests.RegOfficeTest - Запуск теста: deathFlow
+2026-08-10 12:31:48.959 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 12:31:49.057 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 12:31:50.192 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 12:31:50.197 [INFO ] tests.RegOfficeTest - Запуск теста: marriageFlow
+2026-08-10 12:32:00.658 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 12:37:27.151 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-10 12:37:27.153 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-10 12:37:27.153 [WARN ] org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-08-10 12:37:27.216 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 12:37:28.671 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 12:37:28.709 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-10 12:37:39.111 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 12:37:39.206 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 12:37:40.322 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 12:37:40.328 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-10 13:31:33.777 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  /Users/yuliyaharun/Library/Caches/JetBrains/IntelliJIdea2026.1/temp-testng-customsuite.xml
+
+2026-08-10 13:31:33.799 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 13:31:39.944 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 13:31:39.989 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-10 13:31:50.174 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 13:31:50.265 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 13:31:51.346 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 13:31:51.352 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-10 14:09:59.622 [INFO ] org.testng.internal.Utils - [TestNG] Running:
+  /Users/yuliyaharun/Library/Caches/JetBrains/IntelliJIdea2026.1/temp-testng-customsuite.xml
+
+2026-08-10 14:09:59.644 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 14:10:02.136 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 14:10:02.177 [INFO ] tests.RegOfficeTest - Запуск теста: adminFlow
+2026-08-10 14:10:03.101 [INFO ] tests.RegOfficeTest - Тест adminFlow успешно завершён
+2026-08-10 14:10:03.107 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 14:10:03.197 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 14:10:05.846 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 14:10:05.854 [INFO ] tests.RegOfficeTest - Запуск теста: birthFlow
+2026-08-10 14:10:06.798 [INFO ] tests.RegOfficeTest - Тест birthFlow успешно завершён
+2026-08-10 14:10:06.799 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 14:10:06.883 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 14:10:08.678 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 14:10:08.679 [INFO ] tests.RegOfficeTest - Запуск теста: deathFlow
+2026-08-10 14:10:09.515 [INFO ] tests.RegOfficeTest - Тест deathFlow успешно завершён
+2026-08-10 14:10:09.516 [INFO ] tests.RegOfficeTest - Завершение теста
+2026-08-10 14:10:09.599 [INFO ] tests.RegOfficeTest - Настройка драйвера
+2026-08-10 14:10:11.899 [INFO ] tests.RegOfficeTest - Драйвер настроен, страница открыта
+2026-08-10 14:10:11.903 [INFO ] tests.RegOfficeTest - Запуск теста: marriageFlow
+2026-08-10 14:10:12.932 [INFO ] tests.RegOfficeTest - Тест marriageFlow успешно завершён
+2026-08-10 14:10:12.934 [INFO ] tests.RegOfficeTest - Завершение теста
