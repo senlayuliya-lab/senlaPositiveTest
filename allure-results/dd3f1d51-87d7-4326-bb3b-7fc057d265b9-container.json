@@ -1,0 +1,1 @@
+{"uuid":"dd3f1d51-87d7-4326-bb3b-7fc057d265b9","name":"tests.RegOfficeTest.setUp","children":["2c7781e6-c6f0-4ef0-b681-07944c26d794"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1786104819860,"stop":1786104822000}],"afters":[],"start":1786104819860,"stop":1786104822000}
