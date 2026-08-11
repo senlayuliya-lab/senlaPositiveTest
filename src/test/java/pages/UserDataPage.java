@@ -1,5 +1,6 @@
 package pages;
 
+import driver.BasePage;
 import io.qameta.allure.Step;
 import models.UserData;
 import org.openqa.selenium.By;

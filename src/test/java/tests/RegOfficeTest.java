@@ -1,25 +1,17 @@
 package tests;
 
+import driver.BaseTest;
 import io.qameta.allure.*;
-import io.qameta.allure.testng.AllureTestNg;
 import models.AdminRegistrationData;
 import models.UserData;
 import models.CitizenData;
 import models.SpouseData;
-import driver.DriverSingleton;
-import org.openqa.selenium.WebDriver;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-import org.testng.Assert;
-import org.testng.annotations.*;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.Assertions;
 import pages.*;
 
 @Epic("E2E ЗАГС")
-@Listeners({AllureTestNg.class})
-public class RegOfficeTest {
-
-    private static final Logger logger = LoggerFactory.getLogger(RegOfficeTest.class);
-    private WebDriver driver;
+public class RegOfficeTest extends BaseTest {  // ← наследуем BaseTest
 
     UserData user = UserData.builder()
             .lastName("Иванов")
@@ -50,22 +42,6 @@ public class RegOfficeTest {
             .passport("CD7654321")
             .build();
 
-    @BeforeMethod
-    public void setUp() {
-        Allure.step("Настройка драйвера и открытие страницы");
-        logger.info("Настройка драйвера");
-        driver = DriverSingleton.getDriver();
-        driver.get("https://user:senlatest@regoffice.senla.eu/");
-        logger.info("Драйвер настроен, страница открыта");
-    }
-
-    @AfterMethod
-    public void tearDown() {
-        Allure.step("Завершение теста - закрытие драйвера");
-        logger.info("Завершение теста");
-        DriverSingleton.quit();
-    }
-
     @Test
     @Severity(SeverityLevel.CRITICAL)
     @Description("Тест проверяет создание успешной заявки О заключении брака")
@@ -89,7 +65,7 @@ public class RegOfficeTest {
         marriagePage.finish();
 
         Allure.step("Шаг 3: Проверка успешного завершения");
-        Assert.assertTrue(new FinalPage(driver).isSuccess());
+        Assertions.assertTrue(new FinalPage(driver).isSuccess());
 
         logger.info("Тест marriageFlow успешно завершён");
     }
@@ -124,7 +100,7 @@ public class RegOfficeTest {
         birthPage.finish();
 
         Allure.step("Шаг 5: Проверка успешного завершения");
-        Assert.assertTrue(new FinalPage(driver).isSuccess());
+        Assertions.assertTrue(new FinalPage(driver).isSuccess());
 
         logger.info("Тест birthFlow успешно завершён");
     }
@@ -154,7 +130,7 @@ public class RegOfficeTest {
         deathPage.finish();
 
         Allure.step("Шаг 3: Проверка успешного завершения");
-        Assert.assertTrue(new FinalPage(driver).isSuccess());
+        Assertions.assertTrue(new FinalPage(driver).isSuccess());
 
         logger.info("Тест deathFlow успешно завершён");
     }
@@ -181,7 +157,7 @@ public class RegOfficeTest {
         adminPage.loginAsAdmin(data);
 
         Allure.step("Шаг 2: Проверка загрузки страницы администрирования");
-        Assert.assertTrue(adminPage.isAdminPageLoaded(), "Страница администрирования не загрузилась");
+        Assertions.assertTrue(adminPage.isAdminPageLoaded(), "Страница администрирования не загрузилась");
 
         logger.info("Тест adminFlow успешно завершён");
     }

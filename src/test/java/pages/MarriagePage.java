@@ -1,5 +1,6 @@
 package pages;
 
+import driver.BasePage;
 import io.qameta.allure.Step;
 import models.CitizenData;
 import models.SpouseData;
