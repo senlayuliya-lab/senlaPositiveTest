@@ -1,4 +1,4 @@
-package endpoints;
+package com.example.apitesting.endpoints;
 
 public class ApiEndpoints {
     public static final String SEND_USER_REQUEST = "/sendUserRequest";

@@ -1,4 +1,4 @@
-package config;
+package com.example.apitesting.config;
 
 import io.restassured.RestAssured;
 import io.restassured.filter.log.RequestLoggingFilter;

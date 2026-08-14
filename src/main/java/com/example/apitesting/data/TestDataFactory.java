@@ -1,6 +1,6 @@
-package data;
+package com.example.apitesting.data;
 
-import models.SendUserRequest;
+import com.example.apitesting.models.SendUserRequest;
 
 public class TestDataFactory {
 

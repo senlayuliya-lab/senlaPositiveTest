@@ -1,12 +1,12 @@
-package tests;
+package com.example.apitesting;
 
-import config.RestAssuredConfig;
-import data.TestDataFactory;
+import com.example.apitesting.config.RestAssuredConfig;
+import com.example.apitesting.data.TestDataFactory;
 import io.qameta.allure.*;
-import models.SendUserRequest;
+import com.example.apitesting.models.SendUserRequest;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-import specs.Specifications;
+import com.example.apitesting.specs.Specifications;
 
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.greaterThan;

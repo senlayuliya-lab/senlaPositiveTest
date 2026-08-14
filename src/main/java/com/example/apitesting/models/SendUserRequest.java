@@ -1,4 +1,4 @@
-package models;
+package com.example.apitesting.models;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.AllArgsConstructor;

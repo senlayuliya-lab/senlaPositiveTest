@@ -1,4 +1,4 @@
-package models;
+package com.example.apitesting.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
