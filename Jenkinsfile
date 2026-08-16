@@ -3,6 +3,7 @@ pipeline {
 
     environment {
         MAVEN_HOME = tool name: 'maven-3', type: 'maven'
+        PATH = "${MAVEN_HOME}/bin:${env.PATH}"
         EMAIL_TO = 'senlayuliya@gmail.com'
     }
 
