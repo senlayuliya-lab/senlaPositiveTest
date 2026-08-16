@@ -1,19 +1,36 @@
 pipeline {
     agent any
+
     environment {
         MAVEN_HOME = tool name: 'maven-3', type: 'maven'
         EMAIL_TO = 'senlayuliya@gmail.com'
     }
-triggers { cron('0 10 * * *') }
+
+    triggers {
+        cron('0 10 * * *')
+    }
+
     stages {
         stage('Test') {
-            steps { sh 'mvn clean test -Dtest=CucumberTestRunner' }
-            post { always { archiveArtifacts artifacts: 'target/*' } }
+            steps {
+                sh 'mvn clean test -Dtest=CucumberTestRunner'
+            }
+            post {
+                always {
+                    archiveArtifacts artifacts: 'logs/*.log', allowEmptyArchive: true
+                    archiveArtifacts artifacts: 'target/cucumber-reports/*', allowEmptyArchive: true
+                    archiveArtifacts artifacts: 'target/allure-results/*', allowEmptyArchive: true
+                }
+            }
         }
         stage('Report') {
             steps {
                 allure results: [[path: 'target/allure-results']]
-                publishHTML([reportDir: 'target/cucumber-reports', reportFiles: 'cucumber.html', reportName: 'Cucumber Report'])
+                publishHTML([
+                    reportDir: 'target/cucumber-reports',
+                    reportFiles: 'cucumber.html',
+                    reportName: 'Cucumber Report'
+                ])
             }
         }
         stage('Email') {
@@ -26,9 +43,18 @@ triggers { cron('0 10 * * *') }
             }
         }
     }
+
     post {
-        always { archiveArtifacts artifacts: 'target/*', allowEmptyArchive: true }
-        success { echo 'OK' }
-        failure { echo 'FAIL' }
+        always {
+            archiveArtifacts artifacts: 'logs/*.log', allowEmptyArchive: true
+            archiveArtifacts artifacts: 'target/cucumber-reports/*', allowEmptyArchive: true
+            archiveArtifacts artifacts: 'target/allure-results/*', allowEmptyArchive: true
+        }
+        success {
+            echo 'OK'
+        }
+        failure {
+            echo 'FAIL'
+        }
     }
 }
