@@ -1,4 +1,4 @@
-package com.example.apitesting;
+package com.example.apitesting.api;
 
 import com.example.apitesting.config.RestAssuredConfig;
 import com.example.apitesting.data.TestDataFactory;
