@@ -14,6 +14,7 @@ pipeline {
     stages {
         stage('Test') {
             steps {
+                sh 'mkdir -p logs'  // ← ДОБАВИТЬ ЭТУ СТРОКУ!
                 sh 'mvn clean test -Dtest=CucumberTestRunner'
             }
             post {
