@@ -14,7 +14,7 @@ pipeline {
     stages {
         stage('Test') {
             steps {
-                sh 'mkdir -p logs'  // ← ДОБАВИТЬ ЭТУ СТРОКУ!
+                sh 'mkdir -p logs'
                 sh 'mvn clean test -Dtest=CucumberTestRunner'
             }
             post {
@@ -28,11 +28,6 @@ pipeline {
         stage('Report') {
             steps {
                 allure results: [[path: 'target/allure-results']]
-                publishHTML([
-                    reportDir: 'target/cucumber-reports',
-                    reportFiles: 'cucumber.html',
-                    reportName: 'Cucumber Report'
-                ])
             }
         }
         stage('Email') {
