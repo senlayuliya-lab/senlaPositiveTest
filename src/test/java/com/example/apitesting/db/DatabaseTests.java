@@ -32,7 +32,7 @@ public class DatabaseTests extends AbstractTestNGSpringContextTests {
         databaseService.deleteUserByPassport(TEST_USER_PASSPORT);
         databaseService.deleteAdminByPassport(TEST_ADMIN_PASSPORT);
         log.info("Очистка выполнена");
-    }*/
+  }*/
 
     @Test(description = "Создание заявителя (пользователя)")
     @Severity(SeverityLevel.CRITICAL)

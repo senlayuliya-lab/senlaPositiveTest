@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenoid Parallel Suite" parallel="methods" thread-count="3">
+    <test name="Admin Flow Tests">
+        <classes>
+            <class name="com.example.apitesting.ui.AdminFlowSelenoidTest"/>
+        </classes>
+    </test>
+</suite>
